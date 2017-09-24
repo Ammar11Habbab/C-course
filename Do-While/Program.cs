@@ -11,7 +11,7 @@ namespace Do_While
         static void Main(string[] args)
         {
 
-            double mysalary = 1000.20, total = 20.20;
+            double mysalary = 1000.20, total = 0.0;
             int i = 0;
             do
             {
